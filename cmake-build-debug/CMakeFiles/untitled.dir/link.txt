@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/untitled.dir/main.c.o CMakeFiles/untitled.dir/utils.c.o CMakeFiles/untitled.dir/readProcess.c.o CMakeFiles/untitled.dir/mangaSecundaryIndexManege.c.o CMakeFiles/untitled.dir/mangaPrimaryIndexManage.c.o CMakeFiles/untitled.dir/mangaDataFileManage.c.o -o untitled 

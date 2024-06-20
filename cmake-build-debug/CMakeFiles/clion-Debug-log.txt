@@ -1,0 +1,4 @@
+C:\Windows\system32\wsl.exe --distribution Debian --exec "/mnt/c/Program Files/JetBrains/CLion 2024.1.3/bin/ttyfix" /bin/bash -c "export CLION_IDE=TRUE && export CMAKE_COLOR_DIAGNOSTICS=ON && export JETBRAINS_IDE=TRUE && cd '/mnt/c/Users/Luiz Tavares/CLionProjects/untitled/cmake-build-debug' && /usr/local/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G 'CodeBlocks - Unix Makefiles' -S '/mnt/c/Users/Luiz Tavares/CLionProjects/untitled' -B '/mnt/c/Users/Luiz Tavares/CLionProjects/untitled/cmake-build-debug'"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/Users/Luiz Tavares/CLionProjects/untitled/cmake-build-debug
