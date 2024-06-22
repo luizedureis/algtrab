@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/mnt/c/Users/Luiz Tavares/CLionProjects/untitled/cmake-build-debug"
+			"value" : "/mnt/c/Users/Luiz Tavares/Documents/algtrab/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -527,7 +527,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/mnt/c/Users/Luiz Tavares/CLionProjects/untitled"
+			"value" : "/mnt/c/Users/Luiz Tavares/Documents/algtrab"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1095,7 +1095,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/mnt/c/Users/Luiz Tavares/CLionProjects/untitled/cmake-build-debug"
+			"value" : "/mnt/c/Users/Luiz Tavares/Documents/algtrab/cmake-build-debug"
 		},
 		{
 			"name" : "untitled_IS_TOP_LEVEL",
@@ -1119,7 +1119,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/mnt/c/Users/Luiz Tavares/CLionProjects/untitled"
+			"value" : "/mnt/c/Users/Luiz Tavares/Documents/algtrab"
 		}
 	],
 	"kind" : "cache",

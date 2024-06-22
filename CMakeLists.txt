@@ -8,4 +8,9 @@ add_executable(untitled main.c
         readProcess.c
         mangaSecundaryIndexManege.c
         mangaPrimaryIndexManage.c
-        mangaDataFileManage.c)
+        mangaDataFileManage.c
+        deleteProcess.c
+        deleteProcess.h
+        updateProcess.c
+        updateProcess.h
+)

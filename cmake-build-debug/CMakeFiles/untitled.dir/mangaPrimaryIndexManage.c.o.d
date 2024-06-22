@@ -1,5 +1,5 @@
 CMakeFiles/untitled.dir/mangaPrimaryIndexManage.c.o: \
- /mnt/c/Users/Luiz\ Tavares/CLionProjects/untitled/mangaPrimaryIndexManage.c \
+ /mnt/c/Users/Luiz\ Tavares/Documents/algtrab/mangaPrimaryIndexManage.c \
  /usr/include/stdc-predef.h /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -48,5 +48,5 @@ CMakeFiles/untitled.dir/mangaPrimaryIndexManage.c.o: \
  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h /usr/include/alloca.h \
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
- /mnt/c/Users/Luiz\ Tavares/CLionProjects/untitled/mangaPrimaryIndexManege.h \
- /mnt/c/Users/Luiz\ Tavares/CLionProjects/untitled/mangaDataFileManage.h
+ /mnt/c/Users/Luiz\ Tavares/Documents/algtrab/mangaPrimaryIndexManege.h \
+ /mnt/c/Users/Luiz\ Tavares/Documents/algtrab/mangaDataFileManage.h

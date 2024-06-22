@@ -4,8 +4,9 @@
 #include "mangaDataFileManage.h"
 #include "mangaSecundaryIndexManege.h"
 #include "readProcess.h"
+#include "deleteProcess.h"
 #include "utils.h"
-
+#include "updateProcess.h"
 #define NamePrimaryKeyFile "manga_primary_key_file.txt"
 
 #define EXITCODE 0
@@ -27,11 +28,19 @@ int main(void) {
         if(selectInput == 1){
             flush_in();
             runMainReadProcess();
-        }
-        if (selectInput == 2) {
+        }else if (selectInput == 2) {
             flush_in();
             createNewRegitryInDataFile();
-        };
+        }else if(selectInput==3){
+            flush_in();
+            updateMainProcess();
+        }else if(selectInput == 4){
+            flush_in();
+            removeMainProcess();
+        }else{
+            printf("Insira um valor válido\n");
+        }
+
 
         printMenuOptions();
         scanf("%d",&selectInput);

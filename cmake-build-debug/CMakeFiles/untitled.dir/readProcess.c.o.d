@@ -1,8 +1,8 @@
 CMakeFiles/untitled.dir/readProcess.c.o: \
- /mnt/c/Users/Luiz\ Tavares/CLionProjects/untitled/readProcess.c \
+ /mnt/c/Users/Luiz\ Tavares/Documents/algtrab/readProcess.c \
  /usr/include/stdc-predef.h \
- /mnt/c/Users/Luiz\ Tavares/CLionProjects/untitled/readProcess.h \
- /mnt/c/Users/Luiz\ Tavares/CLionProjects/untitled/utils.h \
+ /mnt/c/Users/Luiz\ Tavares/Documents/algtrab/readProcess.h \
+ /mnt/c/Users/Luiz\ Tavares/Documents/algtrab/utils.h \
  /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \

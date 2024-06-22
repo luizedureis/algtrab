@@ -1,5 +1,5 @@
 CMakeFiles/untitled.dir/main.c.o: \
- /mnt/c/Users/Luiz\ Tavares/CLionProjects/untitled/main.c \
+ /mnt/c/Users/Luiz\ Tavares/Documents/algtrab/main.c \
  /usr/include/stdc-predef.h /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -48,7 +48,9 @@ CMakeFiles/untitled.dir/main.c.o: \
  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h /usr/include/alloca.h \
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
- /mnt/c/Users/Luiz\ Tavares/CLionProjects/untitled/mangaDataFileManage.h \
- /mnt/c/Users/Luiz\ Tavares/CLionProjects/untitled/mangaSecundaryIndexManege.h \
- /mnt/c/Users/Luiz\ Tavares/CLionProjects/untitled/readProcess.h \
- /mnt/c/Users/Luiz\ Tavares/CLionProjects/untitled/utils.h
+ /mnt/c/Users/Luiz\ Tavares/Documents/algtrab/mangaDataFileManage.h \
+ /mnt/c/Users/Luiz\ Tavares/Documents/algtrab/mangaSecundaryIndexManege.h \
+ /mnt/c/Users/Luiz\ Tavares/Documents/algtrab/readProcess.h \
+ /mnt/c/Users/Luiz\ Tavares/Documents/algtrab/deleteProcess.h \
+ /mnt/c/Users/Luiz\ Tavares/Documents/algtrab/utils.h \
+ /mnt/c/Users/Luiz\ Tavares/Documents/algtrab/updateProcess.h

@@ -1,7 +1,7 @@
 CMakeFiles/untitled.dir/mangaDataFileManage.c.o: \
- /mnt/c/Users/Luiz\ Tavares/CLionProjects/untitled/mangaDataFileManage.c \
+ /mnt/c/Users/Luiz\ Tavares/Documents/algtrab/mangaDataFileManage.c \
  /usr/include/stdc-predef.h \
- /mnt/c/Users/Luiz\ Tavares/CLionProjects/untitled/mangaDataFileManage.h \
+ /mnt/c/Users/Luiz\ Tavares/Documents/algtrab/mangaDataFileManage.h \
  /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -25,7 +25,7 @@ CMakeFiles/untitled.dir/mangaDataFileManage.c.o: \
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
  /usr/include/x86_64-linux-gnu/bits/floatn.h \
  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
- /mnt/c/Users/Luiz\ Tavares/CLionProjects/untitled/utils.h \
+ /mnt/c/Users/Luiz\ Tavares/Documents/algtrab/utils.h \
  /usr/include/stdlib.h /usr/include/x86_64-linux-gnu/bits/waitflags.h \
  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
  /usr/include/x86_64-linux-gnu/sys/types.h \
@@ -51,5 +51,5 @@ CMakeFiles/untitled.dir/mangaDataFileManage.c.o: \
  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h /usr/include/alloca.h \
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
- /mnt/c/Users/Luiz\ Tavares/CLionProjects/untitled/mangaPrimaryIndexManege.h \
- /mnt/c/Users/Luiz\ Tavares/CLionProjects/untitled/mangaSecundaryIndexManege.h
+ /mnt/c/Users/Luiz\ Tavares/Documents/algtrab/mangaPrimaryIndexManege.h \
+ /mnt/c/Users/Luiz\ Tavares/Documents/algtrab/mangaSecundaryIndexManege.h

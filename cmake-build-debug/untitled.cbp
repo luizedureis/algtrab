@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/mnt/c/Users/Luiz Tavares/CLionProjects/untitled/cmake-build-debug"/>
+				<Option working_dir="/mnt/c/Users/Luiz Tavares/Documents/algtrab/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Luiz\ Tavares/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Luiz\ Tavares/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Luiz\ Tavares/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Luiz\ Tavares/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Luiz\ Tavares/Documents/algtrab/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Luiz\ Tavares/Documents/algtrab/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Luiz\ Tavares/Documents/algtrab/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Luiz\ Tavares/Documents/algtrab/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="untitled">
-				<Option output="/mnt/c/Users/Luiz Tavares/CLionProjects/untitled/cmake-build-debug/untitled" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/mnt/c/Users/Luiz Tavares/CLionProjects/untitled/cmake-build-debug"/>
+				<Option output="/mnt/c/Users/Luiz Tavares/Documents/algtrab/cmake-build-debug/untitled" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Luiz Tavares/Documents/algtrab/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -30,15 +30,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Luiz\ Tavares/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Luiz\ Tavares/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Luiz\ Tavares/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Luiz\ Tavares/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Luiz\ Tavares/Documents/algtrab/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Luiz\ Tavares/Documents/algtrab/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Luiz\ Tavares/Documents/algtrab/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Luiz\ Tavares/Documents/algtrab/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="untitled/fast">
-				<Option output="/mnt/c/Users/Luiz Tavares/CLionProjects/untitled/cmake-build-debug/untitled" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/mnt/c/Users/Luiz Tavares/CLionProjects/untitled/cmake-build-debug"/>
+				<Option output="/mnt/c/Users/Luiz Tavares/Documents/algtrab/cmake-build-debug/untitled" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Luiz Tavares/Documents/algtrab/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -49,64 +49,76 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Luiz\ Tavares/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled/fast"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Luiz\ Tavares/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Luiz\ Tavares/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Luiz\ Tavares/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Luiz\ Tavares/Documents/algtrab/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled/fast"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Luiz\ Tavares/Documents/algtrab/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Luiz\ Tavares/Documents/algtrab/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Luiz\ Tavares/Documents/algtrab/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/mnt/c/Users/Luiz Tavares/CLionProjects/untitled/cmake-build-debug"/>
+				<Option working_dir="/mnt/c/Users/Luiz Tavares/Documents/algtrab/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Luiz\ Tavares/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Luiz\ Tavares/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Luiz\ Tavares/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Luiz\ Tavares/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Luiz\ Tavares/Documents/algtrab/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Luiz\ Tavares/Documents/algtrab/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Luiz\ Tavares/Documents/algtrab/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Luiz\ Tavares/Documents/algtrab/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/mnt/c/Users/Luiz Tavares/CLionProjects/untitled/cmake-build-debug"/>
+				<Option working_dir="/mnt/c/Users/Luiz Tavares/Documents/algtrab/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Luiz\ Tavares/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Luiz\ Tavares/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Luiz\ Tavares/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Luiz\ Tavares/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Luiz\ Tavares/Documents/algtrab/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Luiz\ Tavares/Documents/algtrab/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Luiz\ Tavares/Documents/algtrab/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Luiz\ Tavares/Documents/algtrab/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/mnt/c/Users/Luiz Tavares/CLionProjects/untitled/main.c">
+		<Unit filename="/mnt/c/Users/Luiz Tavares/Documents/algtrab/deleteProcess.c">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Luiz Tavares/CLionProjects/untitled/mangaDataFileManage.c">
+		<Unit filename="/mnt/c/Users/Luiz Tavares/Documents/algtrab/deleteProcess.h">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Luiz Tavares/CLionProjects/untitled/mangaDataFileManage.h">
+		<Unit filename="/mnt/c/Users/Luiz Tavares/Documents/algtrab/main.c">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Luiz Tavares/CLionProjects/untitled/mangaPrimaryIndexManage.c">
+		<Unit filename="/mnt/c/Users/Luiz Tavares/Documents/algtrab/mangaDataFileManage.c">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Luiz Tavares/CLionProjects/untitled/mangaSecundaryIndexManege.c">
+		<Unit filename="/mnt/c/Users/Luiz Tavares/Documents/algtrab/mangaDataFileManage.h">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Luiz Tavares/CLionProjects/untitled/mangaSecundaryIndexManege.h">
+		<Unit filename="/mnt/c/Users/Luiz Tavares/Documents/algtrab/mangaPrimaryIndexManage.c">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Luiz Tavares/CLionProjects/untitled/readProcess.c">
+		<Unit filename="/mnt/c/Users/Luiz Tavares/Documents/algtrab/mangaSecundaryIndexManege.c">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Luiz Tavares/CLionProjects/untitled/readProcess.h">
+		<Unit filename="/mnt/c/Users/Luiz Tavares/Documents/algtrab/mangaSecundaryIndexManege.h">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Luiz Tavares/CLionProjects/untitled/utils.c">
+		<Unit filename="/mnt/c/Users/Luiz Tavares/Documents/algtrab/readProcess.c">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Luiz Tavares/CLionProjects/untitled/utils.h">
+		<Unit filename="/mnt/c/Users/Luiz Tavares/Documents/algtrab/readProcess.h">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Luiz Tavares/CLionProjects/untitled/CMakeLists.txt">
+		<Unit filename="/mnt/c/Users/Luiz Tavares/Documents/algtrab/updateProcess.c">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Luiz Tavares/Documents/algtrab/updateProcess.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Luiz Tavares/Documents/algtrab/utils.c">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Luiz Tavares/Documents/algtrab/utils.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Luiz Tavares/Documents/algtrab/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

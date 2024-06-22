@@ -57,10 +57,10 @@ RM = /usr/local/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/mnt/c/Users/Luiz Tavares/CLionProjects/untitled"
+CMAKE_SOURCE_DIR = "/mnt/c/Users/Luiz Tavares/Documents/algtrab"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/mnt/c/Users/Luiz Tavares/CLionProjects/untitled/cmake-build-debug"
+CMAKE_BINARY_DIR = "/mnt/c/Users/Luiz Tavares/Documents/algtrab/cmake-build-debug"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,9 +87,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/mnt/c/Users/Luiz Tavares/CLionProjects/untitled/cmake-build-debug/CMakeFiles" "/mnt/c/Users/Luiz Tavares/CLionProjects/untitled/cmake-build-debug//CMakeFiles/progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start "/mnt/c/Users/Luiz Tavares/Documents/algtrab/cmake-build-debug/CMakeFiles" "/mnt/c/Users/Luiz Tavares/Documents/algtrab/cmake-build-debug//CMakeFiles/progress.marks"
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/mnt/c/Users/Luiz Tavares/CLionProjects/untitled/cmake-build-debug/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/mnt/c/Users/Luiz Tavares/Documents/algtrab/cmake-build-debug/CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
@@ -128,6 +128,30 @@ untitled: cmake_check_build_system
 untitled/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/build
 .PHONY : untitled/fast
+
+deleteProcess.o: deleteProcess.c.o
+.PHONY : deleteProcess.o
+
+# target to build an object file
+deleteProcess.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/deleteProcess.c.o
+.PHONY : deleteProcess.c.o
+
+deleteProcess.i: deleteProcess.c.i
+.PHONY : deleteProcess.i
+
+# target to preprocess a source file
+deleteProcess.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/deleteProcess.c.i
+.PHONY : deleteProcess.c.i
+
+deleteProcess.s: deleteProcess.c.s
+.PHONY : deleteProcess.s
+
+# target to generate assembly for a file
+deleteProcess.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/deleteProcess.c.s
+.PHONY : deleteProcess.c.s
 
 main.o: main.c.o
 .PHONY : main.o
@@ -249,6 +273,30 @@ readProcess.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/readProcess.c.s
 .PHONY : readProcess.c.s
 
+updateProcess.o: updateProcess.c.o
+.PHONY : updateProcess.o
+
+# target to build an object file
+updateProcess.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/updateProcess.c.o
+.PHONY : updateProcess.c.o
+
+updateProcess.i: updateProcess.c.i
+.PHONY : updateProcess.i
+
+# target to preprocess a source file
+updateProcess.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/updateProcess.c.i
+.PHONY : updateProcess.c.i
+
+updateProcess.s: updateProcess.c.s
+.PHONY : updateProcess.s
+
+# target to generate assembly for a file
+updateProcess.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/updateProcess.c.s
+.PHONY : updateProcess.c.s
+
 utils.o: utils.c.o
 .PHONY : utils.o
 
@@ -282,6 +330,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... untitled"
+	@echo "... deleteProcess.o"
+	@echo "... deleteProcess.i"
+	@echo "... deleteProcess.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
@@ -297,6 +348,9 @@ help:
 	@echo "... readProcess.o"
 	@echo "... readProcess.i"
 	@echo "... readProcess.s"
+	@echo "... updateProcess.o"
+	@echo "... updateProcess.i"
+	@echo "... updateProcess.s"
 	@echo "... utils.o"
 	@echo "... utils.i"
 	@echo "... utils.s"

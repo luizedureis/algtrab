@@ -1,7 +1,7 @@
 CMakeFiles/untitled.dir/mangaSecundaryIndexManege.c.o: \
- /mnt/c/Users/Luiz\ Tavares/CLionProjects/untitled/mangaSecundaryIndexManege.c \
+ /mnt/c/Users/Luiz\ Tavares/Documents/algtrab/mangaSecundaryIndexManege.c \
  /usr/include/stdc-predef.h \
- /mnt/c/Users/Luiz\ Tavares/CLionProjects/untitled/mangaDataFileManage.h \
+ /mnt/c/Users/Luiz\ Tavares/Documents/algtrab/mangaDataFileManage.h \
  /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \

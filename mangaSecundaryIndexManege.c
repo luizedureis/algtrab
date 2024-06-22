@@ -38,7 +38,6 @@ long checkIfSecundaryKeyAlreadyExist(FILE *filePointer,char *autor){
 }
 
 void moveDataAndInsertNewDataInSecundaryDataFile(FILE *filePointer,long indexToInsert,char *stringToInsert) {
-    printf("valores que vem %ld\n",indexToInsert);
     fseek ( filePointer , 0, SEEK_END );
 
     long fim = ftell(filePointer);
@@ -49,7 +48,6 @@ void moveDataAndInsertNewDataInSecundaryDataFile(FILE *filePointer,long indexToI
 
     fread(buffer, sizeof(char), numElements, filePointer);
     buffer[numElements] = '\0';
-    printf("buffer -> %s\n",buffer);
     fseek ( filePointer , indexToInsert , SEEK_SET );
 
     fputs (stringToInsert, filePointer );
